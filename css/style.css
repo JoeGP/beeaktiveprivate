@@ -1,0 +1,19 @@
+.body{
+    /* margin: 30px;
+    background-color: rgba(250, 55, 250, 0.9) */
+    height: 100vh;
+    background-image: url('../images/ad1.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron{
+    opacity: 0.7;
+    height: 25%;
+}
+
+.form{
+    background-color: rgba(195, 199, 196, 0.7);
+    opacity: 0.9;
+    padding: 15px 5px;
+}
